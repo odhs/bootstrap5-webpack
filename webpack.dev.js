@@ -1,4 +1,5 @@
 const path = require("path");
+/* Used to joint the dev and prod configurations of Webpack */
 const common = require("./webpack.common.js");
 const merge = require("webpack-merge");
 
