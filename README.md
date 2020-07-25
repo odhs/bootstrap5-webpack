@@ -1,7 +1,10 @@
 # Bootstrap 5 + Webpack 4
 
-Make a simple page with latest version of Bootstrap (v5+) and using Webpack (v4+) dev environment.
-I also add customization with sass/scsss.
+Get started with Bootstrap v5, the world’s most popular framework for building responsive, mobile-first sites, with Webpack.JS (v4+) and a template starter page.
+
+I also add customization with SASS to you compile your own version of Bootstrap. To use this repo you need [Node.JS](https://nodejs.org/) installed in your computer.
+
+This project is an evolving version of the [nrcfrls](https://github.com/nrcfrld/bootstrap5-webpack) repo.
 
 ## Install
 
@@ -18,13 +21,17 @@ cd bootstrap5-webpack
 npm install
 ```
 
-### serve in development mode
+### Serve in development mode
+
+When in developing mode use this command:
 
 ```sh
 npm run serve
 ```
 
-## build
+### Build to the dist directory
+
+To publish the project use this command:
 
 ```sh
 npm run build
@@ -32,7 +39,7 @@ npm run build
 
 ## Config
 
-This startup project already configured, but is good you know the follow:
+This startup project is already set up, but it is good to know the follow:
 
 ### Package.json
 
