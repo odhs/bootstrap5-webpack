@@ -6,7 +6,7 @@ I also add customization with SASS to you compile your own version of Bootstrap.
 
 This project is an evolving version of the [nrcfrls](https://github.com/nrcfrld/bootstrap5-webpack) repo.
 
-![page](https://github.com/odhs/bootstrap5-webpack/blob/master/bootstrap_starter_template.png.png?raw=true)
+![page](https://github.com/odhs/bootstrap5-webpack/blob/master/bootstrap_starter_template.png?raw=true)
 
 ## Install
 
